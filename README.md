@@ -1,5 +1,8 @@
-Nombre equipo:
+## Metodologías de desarrollo de software UPB
 
-Integrantes: 
-Airder Correa
-Santiago Vargas
+## AidTiago
+
+### Integrantes:
+
+- Airder Correa
+- Santiago Vargas
